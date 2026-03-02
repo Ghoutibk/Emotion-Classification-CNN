@@ -1,6 +1,6 @@
 # 📸 Image Classification: Emotion Detection (Happy vs. Sad)
 
-A professional Deep Learning pipeline built with **TensorFlow** and **Keras** to classify human emotions. This project covers the entire workflow from raw data cleaning to model evaluation.
+**A professional deep learning pipeline that achieves 98.9% training accuracy and 96.9% validation accuracy through automated data integrity checks and optimized CNN architecture.**
 
 ## 🎯 Project Goals
 - Implement a robust data ingestion pipeline.
