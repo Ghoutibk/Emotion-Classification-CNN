@@ -12,8 +12,3 @@ A professional Deep Learning pipeline built with **TensorFlow** and **Keras** to
 - `image_classification.ipynb`: The main notebook with the full pipeline.
 - `requirements.txt`: List of dependencies.
 - `models/`: Directory where the trained model is saved.
-
-## 🛠️ Installation & Usage
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
