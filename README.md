@@ -13,6 +13,8 @@
 - `requirements.txt`: List of dependencies.
 - `models/`: Directory where the trained model is saved.
 
+## 🚀 Model weights available on Hugging Face: https://huggingface.co/Ghoutibk/Image-Classifier
+
 ## 📊 Dataset
 The dataset used for this project consists of 289 images of happy and sad faces. 
 *Note: The raw data is not included in this repository to keep it lightweight. You can use your own dataset or download a similar one from Kaggle.*
